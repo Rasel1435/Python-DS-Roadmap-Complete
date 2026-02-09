@@ -3,7 +3,7 @@
 A complete A-Z roadmap to mastering Python and Data Science. Moving from absolute basics to advanced OOP, NumPy performance, and Pandas Data Mastery. Includes source code for the 26-video YouTube series (Bangla).
 
 
-স্বাগতম! This repository contains all the source code, exercises, and resources for the **Python A-Z Roadmap** YouTube series in Bangla.
+স্বাগতম! This repository contains all the source code, exercises, and resources for the Bangla-language **Python A-Z Roadmap** YouTube series.
 
 ## 📌 Course Structure (Based on the Roadmap)
 
@@ -25,4 +25,4 @@ A complete A-Z roadmap to mastering Python and Data Science. Moving from absolut
 - Libraries: NumPy, Pandas, Scikit-learn (Installation guide in Video 10)
 
 ## 📺 YouTube Playlist
-[Link to your YouTube Playlist here]
+[https://www.youtube.com/watch?v=Uw-IfWWAiyM&list=PLfkT-CEbYZ8Lpw-Pvw4a-4X8pH-oQXcT3]
