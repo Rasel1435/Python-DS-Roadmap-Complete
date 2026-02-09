@@ -44,7 +44,7 @@ A complete A-Z roadmap to mastering Python and Data Science. Moving from absolut
 1. Install [Python 3.10+](https://www.python.org/)
 2. Install [VS Code](https://code.visualstudio.com/)
 3. Install Python Extension for VS Code
-4. Clone this repo: `git clone https://github.com/YOUR_USERNAME/Python-DS-Roadmap-Bangla.git`
+4. Clone this repo: `git clone https://github.com/Rasel1435/Python-DS-Roadmap-Complete.git`
 
 ## 📺 YouTube Playlist
 [Click here to watch the full series](https://www.youtube.com/watch?v=Uw-IfWWAiyM&list=PLfkT-CEbYZ8Lpw-Pvw4a-4X8pH-oQXcT3)
