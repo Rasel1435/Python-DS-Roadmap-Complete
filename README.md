@@ -1,7 +1,7 @@
-# Python-Data-Science-The-Full-A-Z-Roadmap-Beginner-to-Pro-
+# Python & Data Science: The Full A-Z Roadmap (Beginner to Pro) 🚀
+
 A complete A-Z roadmap to mastering Python and Data Science. Moving from absolute basics to advanced OOP, NumPy performance, and Pandas Data Mastery. Includes source code for the 26-video YouTube series (Bangla).
 
-# Python & Data Science: The Full A-Z Roadmap (Beginner to Pro) 🚀
 
 স্বাগতম! This repository contains all the source code, exercises, and resources for the **Python A-Z Roadmap** YouTube series in Bangla.
 
