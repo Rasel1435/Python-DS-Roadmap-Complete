@@ -7,7 +7,7 @@ A complete A-Z roadmap to mastering Python and Data Science. Moving from absolut
 ## 📌 Detailed Roadmap & Progress
 
 ### 🔹 Phase 1: Python Fundamentals (The Foundation)
-- [ ] **Video 1:** Setup & Syntax (First "Hello World") — [Watch]()
+- [ ] **Video 1:** Setup & Syntax (First "Hello World") — [Watch](https://youtu.be/Uw-IfWWAiyM)
 - [ ] **Video 2:** Variables & Data Types — [Watch]()
 - [ ] **Video 3:** Operators & Expressions — [Watch]()
 - [ ] **Video 4:** Data Structures (Lists & Tuples) — [Watch]()
