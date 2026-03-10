@@ -16,7 +16,7 @@ A complete A-Z roadmap to mastering Python and Data Science. Moving from absolut
 - [ ] **Video 7:** Loops & Iteration — [Watch](https://youtu.be/Uzzu8Wqh8JY)
 - [ ] **Video 8:** Error Handling (Try-Except) — [Watch](https://youtu.be/3u_J0KKNjAg)
 - [ ] **Video 9:** Functions & Reusable Code — [Watch](https://youtu.be/uUByXFFjqAY)
-- [ ] **Video 10:** Modules, Packages & Pip — [Watch]()
+- [ ] **Video 10:** Modules, Packages & Pip — [Watch](https://youtu.be/eHLaS4Bk8Tk)
 - [ ] **Video 11:** File Handling (Text, CSV, JSON) — [Watch]()
 
 ### 🔹 Phase 2: Object-Oriented Programming (OOP)
